@@ -3,9 +3,9 @@ OpenIniTerm
 ================
 
 Another OS X Finder hack. Drop this somewhere like
-your /Applications/scripts/ folder. Then, open another 
-Finder window, and drag the icon to the bar next to the
-layout selector thingys. 
+your /Applications or /Applications/scripts/ folder. 
+Then, open another Finder window, and drag the icon to 
+the bar next to the layout selector thingies. 
 
 To install
 ===========
