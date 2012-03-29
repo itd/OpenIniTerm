@@ -2,6 +2,8 @@
 OpenIniTerm
 ================
 
+iTerm2 ROCKS! Get it: http://iterm2.com/
+
 Another OS X Finder hack. Drop this somewhere like
 your /Applications or /Applications/scripts/ folder.
 Then, open another Finder window, and drag the icon to
