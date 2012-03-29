@@ -30,7 +30,7 @@ Love and kisses,
 Changes
 ============
 2012-03-29
-* Turns out it didn't work when the path to a folder has spaces.
-  Fixed that.
-* Removed the drop cruft.
-* Added feature where "shift-click" opens in a new tab.
+
+  * Turns out it didn't work when the path to a folder has spaces. Fixed that.
+  * Removed the drop cruft.
+  * Added feature where "shift-click" opens in a new tab.
