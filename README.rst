@@ -14,8 +14,9 @@ To install
 3. git clone https://github.com/itd/OpenIniTerm.git OpenInIterm.app
 4. open .
 5. Drag the OpenInIterm icon to the top of the Finder window.
-   Then click the new icon.
-6. Enjoy!
+6. Click the icon to open a new iTerm window to the current Finder window path.
+7. Shift-click to open it in an iTerm tab.
+8. Enjoy!
 
 Watch a video at:
   http://www.youtube.com/watch?v=1mkDYW2nsCc
@@ -30,5 +31,6 @@ Changes
 ============
 2012-03-29
 * Turns out it didn't work when the path to a folder has spaces.
-Fixed that.
+  Fixed that.
 * Removed the drop cruft.
+* Added feature where "shift-click" opens in a new tab.
