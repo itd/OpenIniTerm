@@ -21,6 +21,8 @@ To install
 Watch a video at:
   http://www.youtube.com/watch?v=1mkDYW2nsCc
 
+Tested in OS X 10.6.8 and 10.7.3
+
 It's handy for me. YMMV.
 
 Love and kisses,
@@ -31,6 +33,6 @@ Changes
 ============
 2012-03-29
 
-  * Turns out it didn't work when the path to a folder has spaces. Fixed that.
-  * Removed the drop cruft.
-  * Added feature where "shift-click" opens in a new tab.
+* Turns out it didn't work when the path to a folder has spaces. Fixed that.
+* Removed the drop cruft.
+* Added feature where "shift-click" opens in a new tab.
