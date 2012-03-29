@@ -3,9 +3,9 @@ OpenIniTerm
 ================
 
 Another OS X Finder hack. Drop this somewhere like
-your /Applications or /Applications/scripts/ folder. 
-Then, open another Finder window, and drag the icon to 
-the bar next to the layout selector thingies. 
+your /Applications or /Applications/scripts/ folder.
+Then, open another Finder window, and drag the icon to
+the bar next to the layout selector thingies.
 
 To install
 ===========
@@ -13,7 +13,7 @@ To install
 2. cd /Applications/
 3. git clone https://github.com/itd/OpenIniTerm.git OpenInIterm.app
 4. open .
-5. Drag the OpenInIterm icon to the top of the Finder window. 
+5. Drag the OpenInIterm icon to the top of the Finder window.
    Then click the new icon.
 6. Enjoy!
 
@@ -25,3 +25,10 @@ It's handy for me. YMMV.
 Love and kisses,
   -kb
 
+
+Changes
+============
+2012-03-29
+* Turns out it didn't work when the path to a folder has spaces.
+Fixed that.
+* Removed the drop cruft.
