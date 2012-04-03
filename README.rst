@@ -14,7 +14,7 @@ To install
 1. Open iTerm
 2. cd /Applications/
 3. git clone https://github.com/itd/OpenIniTerm.git OpenInIterm.app
-4. open .
+4. open -R OpenInIterm.app
 5. Drag the OpenInIterm icon to the top of the Finder window.
 6. Click the icon to open a new iTerm window to the current Finder window path.
 7. Shift-click to open it in an iTerm tab.
